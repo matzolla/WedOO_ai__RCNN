@@ -1,2 +1,2 @@
-# WedOO_ai__RCNN
+### WedOO.ai Region based Convolutional Neural Network
 Update sequentially
