@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
-"""region_proposal.ipynb
+"""
+region_proposal.ipynb
 
 Name: Tchangmena A Nken Allassan
 
@@ -7,7 +8,8 @@ Creation_date: 11/10/2021
 
 Update_date: 11/10/2021
 
-Here we propose a function, which extract, multiple sub images from an image in the form of bounding boxes, using selective image search algorithm, after which, we perform intersection over union to get different regions proposals
+Here we propose a function, which extract, multiple sub images from an image in the form of bounding boxes, using selective 
+image search algorithm, after which, we perform intersection over union to get different regions proposals
 """
 
 #!unzip 'Test_Images.zip'
