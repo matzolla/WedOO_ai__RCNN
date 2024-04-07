@@ -12,9 +12,9 @@ Here we propose a function, which extract, multiple sub images from an image in 
 image search algorithm, after which, we perform intersection over union to get different regions proposals
 """
 
-#!unzip 'Test_Images.zip'
+# !unzip 'Test_Images.zip'
 
-#import necessary libraries
+# import necessary libraries
 import numpy as np
 import pandas as pd
 import cv2
