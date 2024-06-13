@@ -1,2 +1,2 @@
 ### WedOO.ai Region based Convolutional Neural Network
-Update sequentially
+Updated sequentially
